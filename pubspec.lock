@@ -106,8 +106,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: "61d03b36501021f77d011d80f7d8c8aeff83f56b"
+      ref: master
+      resolved-ref: "2ac02f05c67e52c69ef724fffbd7d567a1944ed1"
       url: "git://github.com/dylanb7/quick_release_package.git"
     source: git
     version: "0.0.1"

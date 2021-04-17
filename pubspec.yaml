@@ -28,6 +28,7 @@ dependencies:
   quick_release_package:
     git:
       url: git://github.com/dylanb7/quick_release_package.git
+      ref: master
 
 
   # The following adds the Cupertino Icons font to your application.
